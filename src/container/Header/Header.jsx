@@ -15,8 +15,6 @@ const Header = () => (
     <div className='app__wrapper_img'>
       <img src={images.welcome} alt="Header img" />
     </div>
-
-
   </div>
 );
 
